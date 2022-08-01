@@ -1,5 +1,5 @@
 const mongoose = require('mongoose')
-// "mongodb+srv://Mahesh:Mahesh@cluster0.bdezf.mongodb.netmytablereact?retryWrites=true&w=majority"
+
 module.exports = () => {
     const connectionParams = {
         useNewUrlParser: true,
