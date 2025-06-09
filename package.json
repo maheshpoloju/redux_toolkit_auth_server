@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests defined, skipping tests\""
+    "test": "echo \"No tests defined, skipping tests\"",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
