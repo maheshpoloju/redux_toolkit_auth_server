@@ -2,8 +2,8 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "reactjs-auth-docker"
-        CONTAINER_NAME = "reactjs-auth-docker-container"
+        IMAGE_NAME = "reactjs-auth-backend-docker"
+        CONTAINER_NAME = "reactjs-auth-backend-docker-container"
         APP_PORT = "8180"
     }
 
